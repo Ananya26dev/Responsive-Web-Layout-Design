@@ -1,0 +1,3 @@
+Responsive Web Layout Design
+
+This project showcases a responsive web layout with a structured design consisting of a header, footer, sidebar, and three content sections. The layout uses distinct colors for easy differentiation and visual appeal, suitable for blogs, dashboards, or portfolio websites. It demonstrates a clean and organized grid-based structure ideal for enhancing user experience using flexbox.
